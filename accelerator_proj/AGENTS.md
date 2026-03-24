@@ -1,0 +1,1 @@
+For details of this project, see [README](./README.md)
